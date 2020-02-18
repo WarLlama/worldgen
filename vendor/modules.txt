@@ -1,0 +1,4 @@
+# github.com/aquilax/go-perlin v0.0.0-20191229124216-0af9ce917c28
+github.com/aquilax/go-perlin
+# github.com/logrusorgru/aurora v0.0.0-20200102142835-e9ef32dff381
+github.com/logrusorgru/aurora
